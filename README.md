@@ -1,2 +1,3 @@
 # JacobPorman.github.io
-<h1>This is HungNguyen aka Jacob. Welcome to</h1>
+## Hi! This is Jacob. Welcome guys!
+### I am a Web Developer, I love to create beautiful and functional websites.
